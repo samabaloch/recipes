@@ -5,3 +5,4 @@
 *salt
 ##instructions
 balabala
+seq 1 100
